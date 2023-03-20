@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STA790 Spring 2023</title>
+    <link>/</link>
+    <description>Recent content on STA790 Spring 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/syllabus/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Note: *Please check this page frequently for updates and always remember to refresh the page.*  Week Date Lesson Reading Video Slides Slides (pdf) Lab Problem Sets   1 Tues, March 21 Lecture 1: Course Overview and Introduction          Thurs, March 23 Lecture 2         2 Tues, March 28 Lecture 3          Thurs, March 30 Lecture 4         3 Tues, April 4 Lecture 5          Thurs, April 7 Lecture 6         4 Tues, April 11 Lecture 7          Thurs, April 13 Lecture 8         5 Tues, April 18 Lecture 9         </description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>/policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/policies/</guid>
+      <description>When in doubt about anything at all, ask questions!!!
+Prerequisites ALL students are expected to be familiar with all the topics covered within the required prerequisites to be in this course. That is - mathematical statistics and probability, linear algebra, and multivariate calculus. Students are also expected to be familiar with R and are encouraged to learn LaTeX during the course.
+Workload Work hours will include time spent going through the preassigned readings, attending lectures and lab sessions, and doing all graded work.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Supplementary Textbooks These textbooks are great resources for some of the topics we will cover. You do not need to buy them, but you may be able to borrow them from Duke library should you need extra reading materials, besides the class slides and main textbooks.
+ Doing Bayesian Data Analysis in brms and the tidyverse Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition Albert, J. (2009), &amp;quot;Bayesian Computation with R (Second Edition).</description>
+    </item>
+    
+  </channel>
+</rss>

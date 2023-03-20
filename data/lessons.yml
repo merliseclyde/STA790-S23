@@ -1,0 +1,49 @@
+lessons:
+
+  - week: "1"
+    date: "Tues, March 21"
+    title: "Lecture 1: Course Overview and Introduction"
+    reading: "00-reading.html"
+    slides: "23-BARK/svm.pdf"
+    slidespdf: "23-BARK/svm-handout.pdf"
+
+  - title: "Lecture 2"
+    date: "Thurs, March 23"
+    
+  - week: "2"
+    title: "Lecture 3"
+    date: "Tues, March 28"
+    
+  - title: "Lecture 4"
+    date: "Thurs, March 30"
+    
+  - week: "3"
+    title: "Lecture 5"
+    date: "Tues, April 4"
+
+  - title: "Lecture 6"
+    date: "Thurs, April 7"
+
+  - week: "4"
+    title: "Lecture 7"
+    date: "Tues, April 11"
+
+  - title: "Lecture 8"
+    date: "Thurs, April 13"
+    
+  - week: "5"  
+    title: "Lecture 9"
+    date: "Tues, April 18"
+    
+
+
+
+ 
+ 
+
+    
+    
+     
+  
+
+ 
