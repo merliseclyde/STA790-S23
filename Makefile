@@ -1,6 +1,6 @@
 REMOTEUSER ?= clyde
 HOST ?= crunch.stat.duke.edu
-DIR ?= /web/isds/docs/courses/Spring23/sta7901.03
+DIR ?= /web/isds/docs/courses/Spring23/sta790.03
 REMOTE ?= $(REMOTEUSER)@$(HOST):$(DIR)
 
 .PHONY: clean

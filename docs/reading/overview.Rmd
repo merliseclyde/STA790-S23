@@ -1,0 +1,17 @@
+---
+title: "Overview and Examples"
+output: 
+  html_document:
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+These are articles for topics covered in class, or as good sources that cover the theory in more details.  See references within for more background.
+
+
+Clyde, M. A. and Wolpert, R. L. (2007). Nonparametric function estimation using overcomplete dictionaries. In. Bayesian Statistics 8 (J. M. Bernardo, M. J. Bayarri, J. O. Berger, A. P. Dawid, D. Heckerman, A. F. M. Smith
+and M. West, eds.), 91–114. Oxford Univ. Press, Oxford, UK.[Valencia 8 Paper]](Valencia8.pdf)
